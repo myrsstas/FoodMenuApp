@@ -40,6 +40,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = FoodApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/myrsi/RiderProjects/FoodApp/FoodApp/Pages/FoodListView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FoodApp.Pages.FoodListView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FoodListView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FoodListView.xaml
+
 [C:/Users/myrsi/RiderProjects/FoodApp/FoodApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FoodApp.Resources.Styles.Colors.xaml
